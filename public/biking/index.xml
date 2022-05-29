@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Biking on MTB with passion</title>
+    <link>https://blog.otr99x.freeddns.org/biking/</link>
+    <description>Recent content in Biking on MTB with passion</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 19 May 2022 18:54:26 -0600</lastBuildDate><atom:link href="https://blog.otr99x.freeddns.org/biking/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Fatbike video</title>
+      <link>https://blog.otr99x.freeddns.org/biking/post2/</link>
+      <pubDate>Thu, 19 May 2022 23:29:41 -0600</pubDate>
+      
+      <guid>https://blog.otr99x.freeddns.org/biking/post2/</guid>
+      <description>Some winter biking</description>
+    </item>
+    
+    <item>
+      <title>fat biking was fun but its time for summer mountain biking</title>
+      <link>https://blog.otr99x.freeddns.org/biking/post1/</link>
+      <pubDate>Thu, 19 May 2022 23:13:30 -0600</pubDate>
+      
+      <guid>https://blog.otr99x.freeddns.org/biking/post1/</guid>
+      <description>The snow is finally gone and we can ride our regular mountain bikes now. More trail reports to come</description>
+    </item>
+    
+  </channel>
+</rss>

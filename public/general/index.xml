@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>General on MTB with passion</title>
+    <link>https://blog.otr99x.freeddns.org/general/</link>
+    <description>Recent content in General on MTB with passion</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 19 May 2022 18:54:57 -0600</lastBuildDate><atom:link href="https://blog.otr99x.freeddns.org/general/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Testing raw html</title>
+      <link>https://blog.otr99x.freeddns.org/general/post2/</link>
+      <pubDate>Thu, 19 May 2022 23:59:53 -0600</pubDate>
+      
+      <guid>https://blog.otr99x.freeddns.org/general/post2/</guid>
+      <description>Your browser does not support the video tag.  Raw html</description>
+    </item>
+    
+    <item>
+      <title>Testing video</title>
+      <link>https://blog.otr99x.freeddns.org/general/post1/</link>
+      <pubDate>Thu, 19 May 2022 23:46:37 -0600</pubDate>
+      
+      <guid>https://blog.otr99x.freeddns.org/general/post1/</guid>
+      <description>There should have been a video here but your browser does not seem to support it.  Testing a video</description>
+    </item>
+    
+  </channel>
+</rss>

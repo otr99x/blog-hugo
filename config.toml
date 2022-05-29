@@ -1,0 +1,31 @@
+baseURL = 'https://blog.otr99x.freeddns.org'
+languageCode = 'en-us'
+title = 'MTB with passion'
+theme = 'PaperMod'
+
+[menu]
+[[menu.main]]
+  identifier = 'about'
+  name = 'about'
+  url = '/about/'
+  weight = -130
+  [[menu.main]]
+  identifier = 'contact'
+  name = 'contact'
+  url = '/contact/'
+  weight = -120
+[[menu.main]]
+  identifier = 'biking'
+  name = 'biking'
+  url = '/biking/'
+  weight = -110
+[[menu.main]]
+  identifier = 'technology'
+  name = 'technology'
+  url = '/tech/'
+  weight = -100
+[[menu.main]]
+  identifier = 'general'
+  name = 'general'
+  url = '/general/'
+  weight = -90
